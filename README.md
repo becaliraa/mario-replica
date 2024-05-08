@@ -1,2 +1,2 @@
-# mario-replica
-Replica do Mario desenvolvido através curso do Dev Club, sendo usado as tecnologias básicas da codificação Web.
+# replica-mario
+ Site desenvolvido com as tecnologias básicas do codificação web. Ainda não está 100%, pois falta a responsividade.
